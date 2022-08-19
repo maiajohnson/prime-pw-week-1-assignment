@@ -1,6 +1,7 @@
 /* Give your page a fun background color */
 html {
     background-color: darkgreen;
+    opacity: 0.3;
     background-size: cover;
     margin:0%;
     border: 0%;
