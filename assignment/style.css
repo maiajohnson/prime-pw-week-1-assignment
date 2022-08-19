@@ -4,6 +4,12 @@ html {
 }
 
 /* Make the header and footer a different color from the background */
+header {
+    background-color: teal;
+}
+footer {
+    background-color: teal;
+}
 
 /* Align the h1 containing your name in the center of the header*/
 
