@@ -8,12 +8,12 @@ div {
 
 /* Make the header and footer a different color from the background */
 header {
-    background-color: teal;
+    background-color: white;
     background-size: cover;
     background-origin: border-box;
 }
 footer {
-    background-color: teal;
+    background-color: white;
     background-size: cover;
     padding-bottom: 1%;
     margin: 0%;
@@ -30,7 +30,10 @@ h1 {
     text-align: center;
 }
 /* Make your p tag a different color and italic */
-
+p {
+    color: goldenrod;
+    font-style: italic;
+}
 /* Put a border around your image */
 
 /* Change the font-family of your list */
