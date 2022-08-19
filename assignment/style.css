@@ -42,5 +42,6 @@ div {
     border: 2px;
     border-color: rgb(56, 218, 56);
     border-style: dashed;
+    border-right:10px;
 }
 /* Change the font-family of your list */
