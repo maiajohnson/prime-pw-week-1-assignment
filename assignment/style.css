@@ -40,7 +40,7 @@ p {
 /* Put a border around your image */
 img {
    width: 300px;
-   border: 2px dashed green;
+   border: 5px double green;
    align: center;
    display: block;
    margin-left: auto;
