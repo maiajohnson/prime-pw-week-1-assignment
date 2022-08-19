@@ -39,7 +39,7 @@ p {
 }
 /* Put a border around your image */
 div {
-    border: 1px;
-    border-color: green;
+    border: 2px;
+    border-color: rgb(56, 218, 56);
 }
 /* Change the font-family of your list */
