@@ -1,5 +1,5 @@
 /* Give your page a fun background color */
-div {
+html {
     background-color: darkgreen;
     background-size: cover;
     margin:0%;
