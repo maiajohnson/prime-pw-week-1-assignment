@@ -38,5 +38,8 @@ p {
     font-style: italic;
 }
 /* Put a border around your image */
-
+div {
+    border: 1px;
+    border-color: green;
+}
 /* Change the font-family of your list */
