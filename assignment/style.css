@@ -1,4 +1,7 @@
 /* Give your page a fun background color */
+html {
+    background-color: darkgreen;
+}
 
 /* Make the header and footer a different color from the background */
 
