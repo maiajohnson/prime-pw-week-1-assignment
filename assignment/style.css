@@ -39,9 +39,7 @@ p {
 }
 /* Put a border around your image */
 div {
-    border: 2px;
     border-color: rgb(56, 218, 56);
     border-style: dashed;
-    border-right:1px;
 }
 /* Change the font-family of your list */
