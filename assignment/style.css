@@ -1,7 +1,6 @@
 /* Give your page a fun background color */
 html {
     background-color: darkgreen;
-    opacity: 0.3;
     background-size: cover;
     margin:0%;
     border: 0%;
@@ -42,5 +41,6 @@ p {
 div {
     border: 2px;
     border-color: rgb(56, 218, 56);
+    border-style: dashed;
 }
 /* Change the font-family of your list */
