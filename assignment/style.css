@@ -13,6 +13,7 @@ header {
     background-color: white;
     background-size: cover;
     background-origin: border-box;
+    padding-top: 2px;
 }
 footer {
     background-color: white;
