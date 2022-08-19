@@ -6,15 +6,15 @@ html {
 /* Make the header and footer a different color from the background */
 header {
     background-color: teal;
-    border:30px;
+    padding: 20%;
 }
 footer {
     background-color: teal;
-    border:30px;
+    padding: 20%;
 }
 p {
     background-color: teal;
-    border:30px;
+    padding: 20%;
 }
 
 /* Align the h1 containing your name in the center of the header*/
