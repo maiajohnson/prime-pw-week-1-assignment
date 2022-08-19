@@ -10,6 +10,7 @@ div {
 header {
     background-color: teal;
     background-size: cover;
+    background-origin: border-box;
 }
 footer {
     background-color: teal;
