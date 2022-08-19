@@ -42,5 +42,8 @@ img {
    width: 300px;
    border: 2px dashed green;
    align: center;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
 }
 /* Change the font-family of your list */
