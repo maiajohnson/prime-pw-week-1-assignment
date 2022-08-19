@@ -10,6 +10,9 @@ header {
 footer {
     background-color: teal;
 }
+p {
+    background-color: teal;
+}
 
 /* Align the h1 containing your name in the center of the header*/
 
