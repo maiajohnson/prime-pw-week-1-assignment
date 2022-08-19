@@ -38,8 +38,9 @@ p {
     font-style: italic;
 }
 /* Put a border around your image */
-div {
-    border-color: rgb(56, 218, 56);
-    border-style: dashed;
+img {
+   width: 300px;
+   border: 2px dashed green;
+   align: center;
 }
 /* Change the font-family of your list */
